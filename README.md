@@ -26,3 +26,5 @@ git push origin main : 원격저장소로 보내기
 ## README.md를 add한다.
 ## 수정했다고 커밋한다.
 ## 원격 저장소로 푸시한다.
+
+git checkout -b main
